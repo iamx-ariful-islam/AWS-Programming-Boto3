@@ -42,7 +42,7 @@ This repository was developed using the latest operating systems, software, and 
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/iam-ariful-islam/aws-programming-boto3.git
+git clone https://github.com/iamx-ariful-islam/aws-programming-boto3.git
 ```
 
 
@@ -158,7 +158,7 @@ Please make sure to update tests as appropriate.
 ## For more or connect with me
 <p align='center'>
   <a href="https://github.com/iamx-ariful-islam"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/mx_ariful_islam"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/mx_ariful_islam"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://bd.linkedin.com/in/iamx-ariful-islam"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/iamx.ariful.islam/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -167,3 +167,4 @@ Please make sure to update tests as appropriate.
 ## License
 
 This repository is licensed under the [MIT](https://choosealicense.com/licenses/mit/)
+
