@@ -168,3 +168,8 @@ Please make sure to update tests as appropriate.
 
 This repository is licensed under the [MIT](https://choosealicense.com/licenses/mit/)
 
+
+## Thank You for Visiting!
+
+> “Good code is about making things powerful yet readable”  
+> — *Md. Ariful Islam*
